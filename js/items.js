@@ -9,7 +9,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 55,
+    amount: 550,
     endTime: "2023-04-25T00:00:00+00:00",
   },
   {
@@ -18,7 +18,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 60,
+    amount: 6000,
     endTime: "2023-04-25T00:05:00+00:00",
   },
   {
@@ -27,7 +27,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 20,
+    amount: 20000,
     endTime: "2023-04-25T00:10:00+00:00",
   },
   {
@@ -36,7 +36,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 0,
+    amount: 2343,
     endTime: "2023-04-25T00:15:00+00:00",
   },
   {
@@ -45,7 +45,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 4,
+    amount: 29378,
     endTime: "2023-04-25T00:20:00+00:00",
   },
   {
@@ -54,7 +54,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 0,
+    amount: 283746,
     endTime: "2023-04-25T00:25:00+00:00",
   },
   {
@@ -63,7 +63,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 99,
+    amount: 99098,
     endTime: "2023-04-25T00:30:00+00:00",
   },
   {
@@ -72,7 +72,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 0,
+    amount: 98342,
     endTime: "2023-04-25T00:35:00+00:00",
   },
   {
@@ -81,7 +81,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 12,
+    amount: 120000,
     endTime: "2023-04-25T00:40:00+00:00",
   },
   {
@@ -90,7 +90,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 6,
+    amount: 69999,
     endTime: "2023-04-25T00:45:00+00:00",
   },
   {
@@ -99,7 +99,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 3,
+    amount: 3333,
     endTime: "2023-04-25T00:50:00+00:00",
   },
   {
@@ -108,7 +108,7 @@ let items = [
     subtitle: "",
     detail: "",
     secondaryImage: "",
-    amount: 7,
+    amount: 434377,
     endTime: "2023-04-25T00:55:00+00:00",
   },
 ];
